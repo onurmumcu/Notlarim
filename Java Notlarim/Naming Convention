@@ -1,0 +1,7 @@
+Naming Convention
+
+Variable --> abc
+Constant --> ABC
+Constructor --> Abc()
+Method -->abc()
+Interface --> Strechable
