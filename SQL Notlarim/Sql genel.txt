@@ -1,0 +1,7 @@
+Yanlis ==>  where marks = null;
+Dogru ==> where marks is null;
+Dogru ==> where marks is not null;
+null ile =  operator kullanilmaz
+
+
+========================
